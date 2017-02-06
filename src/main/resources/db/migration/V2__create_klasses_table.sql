@@ -1,0 +1,4 @@
+CREATE TABLE `klasses` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  ``
+)
